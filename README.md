@@ -1,4 +1,4 @@
-# Git workshop
+# Git workshops
 
 In this repository, various exercises for practicing Git and GitHub skills may be found.
 
